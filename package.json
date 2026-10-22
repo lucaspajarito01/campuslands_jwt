@@ -1,0 +1,17 @@
+{
+  "name": "campuslands_jwt",
+  "version": "1.0.0",
+  "description": "Archivo de elaboración de ejercicios con jwt",
+  "keywords": [
+    "NodeJS",
+    "express",
+    "jwt"
+  ],
+  "license": "ISC",
+  "author": "lucaspajarito01",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
